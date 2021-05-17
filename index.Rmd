@@ -58,10 +58,9 @@ Datactivist est une société coopérative qui se donne pour mission d’ouvrir 
 J'accompagne les acteurs de l'ESR dans leur **stratégie open data et science ouverte**.
 
 --
+![:abs 22%, 65%, 42%](img/livre_blanc.jpg)
 
-.pull-right[.reduite3[![.right-column](img/livre_blanc.jpg)]]
-
-.pull-left[## Observateur et acteur du numérique universitaire]
+.pull-left[## Observateur et acteur du<br />numérique universitaire]
 
 * 2009-2014 : Deuxième labo (**livre blanc sur le SI recherche**)
 * 2014-2020 : Université de Bordeaux
@@ -133,7 +132,7 @@ J'en profite pour vous prier de m'envoyer votre SDN, c'est une matière très ri
 
 ### Faire ou ne pas faire d'entrepôt institutionnel pour les données de la recherche ?
 
-Le MESRI a annoncé le 11 mai le lancement prochain d'un entrepôt national pour les données de la recherche : recherche.data.gouv.fr Cet entrepôt sera confié à Inrae pour 3 ans (version bêta) avant de prendre sa forme définitive.
+Le MESRI a annoncé le 11 mai le lancement prochain d'un entrepôt national pour les données de la recherche : recherche.data.gouv.fr. Cet entrepôt sera confié à Inrae (chef de projet : Esther Dzale Yeumo) pour 3 ans d'incubation avant d'adopter sa forme définitive.
 
 - Début 2022 : lancement de l'entrepôt
 - 2022-2023 : campagnes d'alimentation avec les sites universitaires (ateliers de la donnée), des acteurs de l'édition et des archives ouvertes
@@ -158,9 +157,15 @@ Exemples : ORCID, Crossref, OpenAIRE, DOAJ, BASE, Wikimedia, DataCite, OpenAIRE�
 
 ### Exemple de HAL
 
+.pull-left[
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr"><a href="https://twitter.com/totoroinparis?ref_src=twsrc%5Etfw">@totoroinparis</a> <a href="https://twitter.com/mapav8?ref_src=twsrc%5Etfw">@mapav8</a> <a href="https://twitter.com/yprie?ref_src=twsrc%5Etfw">@yprie</a> bon ce qui serait bien c&#39;est que HAL embauche un ergonome. Ou ait juste un peu de bon sens.</p>&mdash; Joel Gombin (@joelgombin) <a href="https://twitter.com/joelgombin/status/224530772827176960?ref_src=twsrc%5Etfw">July 15, 2012</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]
 
+--
+
+.pull-right[
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Refonte de l’ergonomie de <a href="https://twitter.com/hal_fr?ref_src=twsrc%5Etfw">@hal_fr</a> : les projets en cours <a href="https://twitter.com/hashtag/scienceouverte?src=hash&amp;ref_src=twsrc%5Etfw">#scienceouverte</a> <a href="https://twitter.com/hashtag/UrfistHAL_LO?src=hash&amp;ref_src=twsrc%5Etfw">#UrfistHAL_LO</a> <a href="https://twitter.com/nfargier?ref_src=twsrc%5Etfw">@nfargier</a> <a href="https://t.co/LKNfSeqAtR">pic.twitter.com/LKNfSeqAtR</a></p>&mdash; CCSD (@ccsd_fr) <a href="https://twitter.com/ccsd_fr/status/1390242511935967232?ref_src=twsrc%5Etfw">May 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]
 
 ---
 
@@ -168,12 +173,17 @@ Exemples : ORCID, Crossref, OpenAIRE, DOAJ, BASE, Wikimedia, DataCite, OpenAIRE�
 
 ### Accompagnement des chercheurs
 
+.pull-left[
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="fr" dir="ltr">Quand je lis <a href="https://twitter.com/marindacos?ref_src=twsrc%5Etfw">@marindacos</a> « Dans de nombreuses disciplines, il n’y a pas ou peu de culture de partage et de documentation des données », j&#39;ai envie de répondre : dans de nombreuses discipline on n&#39;y est pas formé et il n&#39;existe aucun soutien pour le faire. <a href="https://t.co/4GFrpE3NQx">https://t.co/4GFrpE3NQx</a></p>&mdash; FX Coudert (@fxcoudert) <a href="https://twitter.com/fxcoudert/status/1225061583673593856?ref_src=twsrc%5Etfw">February 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+]
 
-Selon [une enquête de l'Université Rennes 2](https://hal.archives-ouvertes.fr/hal-01635186v2) :
+--
+
+.pull-right[
+Selon [une enquête de l'Université Rennes 2](https://hal.archives-ouvertes.fr/hal-01635186v2) (2017) :
 
 > Au moins un tiers des personnes interrogées sollicitent explicitement l’appui d’ingénieurs pour les accompagner sur le plan technique dans le stockage et l’archivage de leurs données.
-
+]
 ---
 
 ## Les communautés : ce qui rend normal
@@ -192,8 +202,6 @@ Selon [une enquête de l'Université Rennes 2](https://hal.archives-ouvertes.fr/
 
 
 ???
-Christophe Pouzat (2021), [“Recherche reproductible : c'est quoi ? Pourquoi en faire ? Comment ?”](https://www.societe-informatique-de-france.fr/wp-content/uploads/2021/05/journee-sif-repro-1-pouzat-recherche-repro.pdf), *Reproductibilité de la recherche*, Société informatique de France]
-
 La publication est une norme de la communauté (ou de l'éthos de la science selon R. K. Merton).
 
 ---
@@ -202,13 +210,15 @@ La publication est une norme de la communauté (ou de l'éthos de la science sel
 
 > "Pourquoi s'embêter à rendre un travail reproductible si personne ne me le demande ?"
 
+>– Christophe Pouzat (2021), [“Recherche reproductible : c'est quoi ? Pourquoi en faire ? Comment ?”](https://www.societe-informatique-de-france.fr/wp-content/uploads/2021/05/journee-sif-repro-1-pouzat-recherche-repro.pdf)
+
 Science ouverte ou recherche reproductible : il est nécessaire de valoriser les comportements vertueux en science quand ils ont un coût (en temps, en argent...).
 
 À l'Université de Liège, qui a souvent été érigée en modèle, le dépôt n’est pas « obligatoire », mais l’évaluation des chercheurs (pour les demandes de promotions) et l’attribution des crédits ne prennent en compte que ce qui est déposé dans l'archive ouverte. 
 
-Mais en France, le suivi de carrière est confié aux sections CNU…
+Mais en France, le suivi de carrière est national.
 
-Quelques pistes :
+Quelques pistes pour les universités :
 - donner des instructions aux comités de visite HCÉRES
 - prendre en compte la science ouverte dans l'évaluation de projets / l'attribution de crédits
 - financer des mini-bourses pour des activités de science ouverte
