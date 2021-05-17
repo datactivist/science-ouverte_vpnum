@@ -81,12 +81,13 @@ class:center,inverse, middle
 
 ---
 
-## Deux petits sondages !
+## Trois questions pour se lancer !
 
 .center[.reduite[![](img/klaxoon.png)]]
 
 ???
 
+- Quel mot ou expression m'évoque la science ouverte ?
 - Quels aspects de la science ouverte sont importants pour mon université ?
 - Quels aspects de la science ouverte est-ce que mon université soutient ?
 
