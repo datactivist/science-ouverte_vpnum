@@ -276,4 +276,4 @@ Les enjeux de la science ouverte sont loin d'être épuisés.
 Ainsi, dans son rapport "Promouvoir et protéger une culture partagée de l'intégrité scientifique" (mars 2021), l'OPECST recommande :
 
 >  Mieux identifier les processus par lesquels les objectifs poursuivis par la politique de la science ouverte peuvent aider au respect et à la promotion de l’intégrité scientifique ; **définir des normes d’archivage et de mise à
-disposition des données de la recherche afin de garantir le contrôle par les pairs des productions scientifiques**.]
+disposition des données de la recherche afin de garantir le contrôle par les pairs des productions scientifiques**.
