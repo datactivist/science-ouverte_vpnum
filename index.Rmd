@@ -5,7 +5,7 @@ author: "Antoine Blanchard, Datactivist"
 date: "20 mai 2021"
 output:
   SlidesDatactivist::moon_reader:
-    seal: false
+    seal: true
     anchor_sections: false
     css: [default, datactivist, datactivist-fonts]
     lib_dir: libs
@@ -22,13 +22,6 @@ params:
 layout: true
 
 `r paste0("<div class='my-footer'><span>", params$event, "</span> <center><div class=logo><a href='https://datactivist.coop/'><img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'></a></div></center></span></div>")`
-
----
-class: center
-# .red[La science ouverte, un changement institutionnel à conduire]
-## Conférence-débat VPNum
-### Antoine Blanchard, Datactivist
-20 mai 2021
 
 ---
 
