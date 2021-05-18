@@ -83,7 +83,7 @@ class:center,inverse, middle
 
 ## Trois questions pour se lancer !
 
-.center[.reduite[![](img/klaxoon.png)]]
+.center[.reduite[[![](img/klaxoon.png)](https://app.klaxoon.com/join/YNPWMQH)]]
 
 ???
 
