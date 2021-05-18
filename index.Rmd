@@ -17,7 +17,7 @@ output:
       beforeInit: ["macros.js", "matomo.js", "https://platform.twitter.com/widgets.js"]
 params:
   event: VPNum
-  slug: science-ouverte_vpnum
+  slug: vpnum
 ---
 layout: true
 
