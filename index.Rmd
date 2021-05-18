@@ -76,9 +76,11 @@ class:center,inverse, middle
 
 ## Trois questions pour se lancer !
 
-.center[.reduite[[![](img/klaxoon.png)](https://app.klaxoon.com/join/YNPWMQH)]]
+.center[.reduite[[![](img/klaxoon.png)](https://app.klaxoon.com/join/NVFAFRM)]]
 
 ???
+
+Lien : https://app.klaxoon.com/join/NVFAFRM
 
 - Quel mot ou expression m'évoque la science ouverte ?
 - Quels aspects de la science ouverte sont importants pour mon université ?
